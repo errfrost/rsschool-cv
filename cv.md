@@ -1,4 +1,5 @@
 # Kurganov Vladimir
+### Junior Solidity Developer
 
 ## Contacts
 
