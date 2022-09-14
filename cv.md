@@ -7,6 +7,7 @@
 - E-mail: err0rfrost@gmail.com
 - GitHub: [errfrost](https://github.com/errfrost)
 - Telegram: [err0rFrost](https://t.me/err0rFrost)
+- RSSchool's discord server nickname: Vladimir Kurganov (@errfrost)
 
 ## About Me
 
